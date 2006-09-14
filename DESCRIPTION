@@ -1,5 +1,5 @@
 Package: ecoliLeucine
-Version: 1.1.0
+Version: 1.1.1
 Date: 2006-06-06
 Title: Experimental data with Affymetrix E. coli chips 
 Author: Laurent Gautier
@@ -8,4 +8,3 @@ Depends: R (>= 1.9.0), affy
 Description: Experimental data with Affymetrix E. coli chips, as reported in She-pin Hung, Pierre Baldi, and G. Wesley Hatfield, J. Biol. Chem., Vol. 277, Issue 43, 40309-40323, October 25, 2002
 License: GPL version 2 or newer
 biocViews: ExperimentData
-Packaged: Thu Jun  8 15:24:07 2006; vcarey
