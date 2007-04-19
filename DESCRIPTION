@@ -3,7 +3,7 @@ Version: 1.2.1
 Date: 2007-04
 Title: Experimental data with Affymetrix E. coli chips 
 Author: Laurent Gautier
-Maintainer: Laurent Gautier <lgautiergmail.com>
+Maintainer: Laurent Gautier <lgautier@gmail.com>
 Depends: R (>= 1.9.0), affy (>= 1.13)
 Description: Experimental data with Affymetrix E. coli chips, as reported in She-pin Hung, Pierre Baldi, and G. Wesley Hatfield, J. Biol. Chem., Vol. 277, Issue 43, 40309-40323, October 25, 2002
 License: GPL version 2 or newer
