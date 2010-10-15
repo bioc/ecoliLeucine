@@ -1,5 +1,5 @@
 \name{ecoliLeucine}
-\docType{instance}
+\docType{data}
 \alias{ecoliLeucine}
 \title{AffyBatch instance ecoliLeucine}
 \description{
